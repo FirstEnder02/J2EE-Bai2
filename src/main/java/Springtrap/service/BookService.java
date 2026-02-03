@@ -1,6 +1,6 @@
-package service;
+package Springtrap.service;
 
-import model.Book;
+import Springtrap.model.Book;
 import java.util.List;
 
 public interface BookService {
