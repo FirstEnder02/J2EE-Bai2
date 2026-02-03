@@ -1,0 +1,5 @@
+springtrap\service\BookService.class
+springtrap\springtrapApplication.class
+springtrap\model\Book.class
+springtrap\service\BookServiceImpl.class
+springtrap\controller\BookController.class
